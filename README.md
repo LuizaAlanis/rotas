@@ -9,6 +9,6 @@
   <p>:heavy_check_mark: Empacotamento de arquivos </p>
   <p>:heavy_check_mark: Bundle</p>
   <p>:heavy_check_mark: Manipulação de um banco simulado </p>
-  
+  <br><br>
   <h3> :books: A playlist com as aulas: </h3>
   <p>:heavy_check_mark: https://www.youtube.com/playlist?list=PLNV6bdq0lw_XFr_xzgdEbw6SCv0PPW7cw </p>
